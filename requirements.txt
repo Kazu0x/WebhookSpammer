@@ -1,0 +1,6 @@
+requests 
+discord
+concurrent.futures
+os 
+termcolor
+colorama
