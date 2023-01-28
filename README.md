@@ -15,3 +15,6 @@ How to use ? :
 
 
 If you are dumb , you can skid this program xD
+
+
+![image](https://user-images.githubusercontent.com/123811376/215265780-ef261432-e79c-4c75-915f-4496d9be563b.png)
